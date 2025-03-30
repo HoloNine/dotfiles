@@ -18,7 +18,7 @@ format = "[ $path]($style)"
 style = "fg:#3C6EB4"
 
 [git_branch]
-format = '[ $symbol$branch(:$remote_branch) on $branch ]($style)'
+format = '[ $symbol$branch(:$remote_branch) ]($style)'
 style = "fg:#E59728"
 
 [git_status]
